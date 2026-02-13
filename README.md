@@ -3,9 +3,6 @@
 
 A full‑stack MERN productivity application that helps users create, manage, and monitor daily habits with secure authentication and progress tracking.
 
-🌍 Live Demo
-Frontend (Vercel): https://habit-tracker-wxiz.vercel.app/login
-Backend (Render): https://habit-tracker-n1b1.onrender.com/api
 
 📌 Project Overview
 The Habit Tracker App allows users to:
